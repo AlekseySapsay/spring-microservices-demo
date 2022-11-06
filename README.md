@@ -1,4 +1,6 @@
 # spring-microservices-demo
+за основу взят курс по микросервисам
+https://www.youtube.com/watch?v=IOTw3Ul5OJc&ab_channel=javabegin
 
 project from scratch to have practise with microservices and REST full services
 
